@@ -5,7 +5,7 @@ Soy Adrián Mena Ruiz, estudiante de Ingeniería Informática y me encanta progr
 
 ## Proyectos Destacados
 ### Fogón de Inducción en Assembly
-El Fogón de Inducción en Assembly es un proyecto que implementa las funciones de un fogón de inducción utilizando programación a nivel de ensamblador. Este proyecto fue creado como parte de los requisitos finales para la asignatura de Arquitectura de Computadores, explorando la capacidad de programación de bajo nivel y comprendiendo los principios fundamentales de la arquitectura del computador.
+El Fogón de Inducción en Assembly es un proyecto que implementa las funciones de un fogón de inducción utilizando programación a nivel de ensamblador. Este proyecto es parte de los requisitos finales para la asignatura de Arquitectura de Computadores, explorando la capacidad de programación de bajo nivel y comprendiendo los principios fundamentales de la arquitectura de un microprocesador 80c552.
 - [Ver el código en GitHub](https://github.com/Adrimr7/Fog-n-de-Inducci-n-Assembly)
 
 ### Avionair (SGSSI)
